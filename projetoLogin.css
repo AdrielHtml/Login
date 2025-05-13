@@ -1,0 +1,12 @@
+#login{
+    width: 400px;
+    background-color: deepskyblue;
+    font-family: 18px;
+    color: white;
+    text-align: center;
+}
+
+#perfil{
+    width: 100px;
+    height: 100px;
+}
